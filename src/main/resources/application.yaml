@@ -7,3 +7,12 @@ spring:
         git:
           uri: https://github.com/MoaazSuliman/Spring-Cloud-Configuration
           default-label: master #Branch Name
+          #          If the Repository is Private, and it should be,So should specify username, password
+#          username: your-username
+#          password: your-personal-access-token
+
+# Allow To Encrypt and Decrypt
+
+encrypt:
+  key: 12345678 # LOL! it's very secure
+#  key: ${YOUR_KEY_AS_ENV_VARIABLE}
