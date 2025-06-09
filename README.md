@@ -1,5 +1,5 @@
 Refers also to:
-https://github.com/MoaazSuliman/Spring-Cloud-Configuration/blob/master/user-prod.yaml as resource repository for the configurations 
+https://github.com/MoaazSuliman/Spring-Cloud-Configuration as resource repository for the configurations 
 https://github.com/MoaazSuliman/Spring-Cloud-Configuration-Client as spring configuration client for this configuration server
 
 Configuration Management "Externalized Config"(Spring Cloud Config Server)
